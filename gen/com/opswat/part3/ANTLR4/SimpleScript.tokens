@@ -1,0 +1,11 @@
+PRINT=1
+ADD=2
+SUBTRACT=3
+EXIT=4
+STRING=5
+NUMBER=6
+WS=7
+'print'=1
+'add'=2
+'subtract'=3
+'exit'=4
